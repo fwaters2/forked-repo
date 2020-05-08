@@ -8,8 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit to test CI
-        
+          Edit to test Fixed!
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
